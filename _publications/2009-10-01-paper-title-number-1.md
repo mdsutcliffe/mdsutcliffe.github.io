@@ -2,14 +2,14 @@
 title: "High content analysis identifies unique morphological features of reprogrammed cardiomyocytes"
 collection: publications
 permalink: /publication/2018-01-19-Sci-Rep
-excerpt: 'This paper resulted from my undergraduate research developing an automated image analysis pipeline for cardiac myocytes. We developed an algorithm to both segment cells and quantify sarcomere structure using pixel-based intensity correlations.'
+excerpt: 'This paper is the result of my undergraduate research, where I developed an automated image analysis pipeline for cardiac myocytes. My algorithm both segments cells from immunofluorescence images and quantifies sarcomere structure using pixel-based intensity correlations.'
 date: 2018-01-19
 venue: 'Scientific Reports'
 paperurl: 'https://www.ncbi.nlm.nih.gov/pubmed/29352247'
-citation: 'Sutcliffe, MD et al (2018). &quot;High content analysis identifies unique morphological features of reprogrammed cardiomyocytes.&quot; <i>Sci Rep</i>. 8(1):1258.'
+citation: '<b>Sutcliffe MD</b> et al (2018). &quot;High content analysis identifies unique morphological features of reprogrammed cardiomyocytes.&quot; <i>Sci Rep</i>. 8(1):1258.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is the result of my undergraduate research, where I developed an automated image analysis pipeline for cardiac myocytes. My algorithm both segments cells from immunofluorescence images and quantifies sarcomere structure using pixel-based intensity correlations.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Pubmed link here](https://www.ncbi.nlm.nih.gov/pubmed/29352247)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 8(1):1258.
+Recommended citation: <b>Sutcliffe MD</b> et al (2018). "High content analysis identifies unique morphological features of reprogrammed cardiomyocytes." <i>Sci Rep</i>. 8(1):1258.

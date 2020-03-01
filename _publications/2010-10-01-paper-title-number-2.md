@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Network-based predictions of in vivo cardiac hypertrophy"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2018-08-00
+excerpt: 'This paper sought to adapt our lab's previously published <i>in vitro</i> model of cardiac hypertrophy to the <i>in vivo</i> environment. For this paper, I contributed by quantitatively comparing simulations of double-knockout experiments to <i>in vivo</i> data.'
+date: 2018-08
+venue: 'J Mol Cell Cardiol'
+paperurl: 'https://www.ncbi.nlm.nih.gov/pubmed/30030017'
+citation: 'Frank DU, <b>Sutcliffe MD</b>, Saucerman JJ. (2018). &quot;Network-based predictions of in vivo cardiac hypertrophy.&quot; <i>J Mol Cell Cardiol</i>. 121:180-189.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper sought to adapt our lab's previously published <i>in vitro</i> model of cardiac hypertrophy to the <i>in vivo</i> environment. For this paper, I contributed by quantitatively comparing simulations of double-knockout experiments to <i>in vivo</i> data.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Pubmed link here](https://www.ncbi.nlm.nih.gov/pubmed/30030017)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Frank DU, <b>Sutcliffe MD</b>, Saucerman JJ. (2018). "Network-based predictions of in vivo cardiac hypertrophy." <i>J Mol Cell Cardiol</i>. 121:180-189.
