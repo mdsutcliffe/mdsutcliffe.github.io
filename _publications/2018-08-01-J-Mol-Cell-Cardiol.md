@@ -1,7 +1,7 @@
 ---
 title: "Network-based predictions of in vivo cardiac hypertrophy"
 collection: publications
-permalink: /publication/2018-08-00-J-Mol-Cell-Cardiol
+permalink: /publication/2018-08-01-J-Mol-Cell-Cardiol
 excerpt: 'This paper sought to adapt our lab's previously published <i>in vitro</i> model of cardiac hypertrophy to the <i>in vivo</i> environment. For this paper, I contributed by quantitatively comparing simulations of double-knockout experiments to <i>in vivo</i> data.'
 date: 2018-08-01
 venue: 'J Mol Cell Cardiol'
