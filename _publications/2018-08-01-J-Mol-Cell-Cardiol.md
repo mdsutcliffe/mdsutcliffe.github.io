@@ -2,9 +2,9 @@
 title: "Network-based predictions of in vivo cardiac hypertrophy"
 collection: publications
 permalink: /publication/2018-08-01-J-Mol-Cell-Cardiol
-excerpt: 'This paper sought to adapt our lab's previously published <i>in vitro</i> model of cardiac hypertrophy to the <i>in vivo</i> environment. For this paper, I contributed by quantitatively comparing simulations of double-knockout experiments to <i>in vivo</i> data.'
+excerpt: 'This paper sought to adapt our lab's previously published in vitro model of cardiac hypertrophy to the in vivo environment. For this paper, I contributed by quantitatively comparing simulations of double-knockout experiments to in vivo data.'
 date: 2018-08-01
-venue: 'J Mol Cell Cardiol'
+venue: 'Journal of Molecular and Cellular Cardiology'
 paperurl: 'https://www.ncbi.nlm.nih.gov/pubmed/30030017'
 citation: 'Frank DU, <b>Sutcliffe MD</b>, Saucerman JJ. (2018). &quot;Network-based predictions of in vivo cardiac hypertrophy.&quot; <i>J Mol Cell Cardiol</i>. 121:180-189.'
 ---
